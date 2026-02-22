@@ -2,7 +2,7 @@ html { scroll-behavior: smooth; }
 
 /* --- VEGA7 NEON PALETTE --- */
 :root {
-  --bg-dark: #bbffff;   /* ---Old bacground #0a0a0f- */
+  --bg-dark: #0a0a0f;
   --bg-card: #141420;
   --text-light: #ffffff;
   --text-muted: #cccccc;
